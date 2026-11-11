@@ -1,0 +1,36 @@
+{
+  "compileType": "game",
+  "appid": "<YOUR_MINI_GAME_APP_ID>",
+  "projectname": "agora-wechat-mini-game-rtc-demo",
+  "libVersion": "3.17.3",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "minified": false,
+    "enhance": false,
+    "uploadWithSourceMap": true,
+    "postcss": false,
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "simulatorPluginLibVersion": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "isGameTourist": false,
+  "editorSetting": {}
+}
