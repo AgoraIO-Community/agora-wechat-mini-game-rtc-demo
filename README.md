@@ -74,7 +74,7 @@ export const config = {
 在微信公众平台的“开发管理 -> 开发设置 -> 服务器域名”中配置：
 
 - request 合法域名：
-  `https://webrtc2-2.ap.sd-rtn.com;https://webrtc2-ap-web-1.agora.io;https://webrtc-cloud-proxy.sd-rtn.com;https://webrtc-cloud-proxy.agora.io`
+  `https://webrtc2-2.ap.sd-rtn.com;https://webrtc2-ap-web-1.agora.io`
 - socket 合法域名：
   `wss://webrtc-cloud-proxy.sd-rtn.com;wss://webrtc-cloud-proxy.agora.io`
 
